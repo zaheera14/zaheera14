@@ -1,42 +1,41 @@
 ## 🌸 Hi there! I’m Zaheera 👩‍💻✨  
 
 Welcome to my GitHub space!  
-I’m a **second-year Computer Science student at Universiti Teknologi PETRONAS (UTP)** who enjoys turning ideas into code, learning by building projects, and debugging until things finally work 😆💡  
+I’m a **second-year Computer Science student at Universiti Teknologi PETRONAS (UTP)** who loves turning ideas into code and learning by building things (and breaking them… then fixing them 😆).
 
-## 💻 What I’m Up To
-- Exploring technical concepts through **OOP, Algorithms & Data Structures**
-- Building university projects using **Python, SQL, and C++**
-- Understanding how **theory meets real-world coding**
+---
 
-## 🌱 Currently Learning & Growing In
-- Python fundamentals & problem-solving  
-- SQL & database concepts  
-- Object-Oriented Programming (OOP)  
-- Algorithm & Data Structure basics  
-- Tools: **VS Code, GitHub, Jupyter Notebook**
+🔭 I'm exploring Python, SQL, R & data analysis through academic projects.
 
-## 🤝 Open To
-- Beginner-friendly collaborations  
-- Learning-focused and academic projects  
-- Opportunities to grow, contribute, and gain hands-on experience  
+🌱 I’m looking for opportunities to improve my practical experience with Python, visualization tools, and end-to-end project workflows.
 
-## 💬 Ask Me About
-- Life as a Computer Science student at UTP  
-- University projects & tech coursework  
-- Student tech events and organizing experiences  
+🤝 Open to beginner-friendly collaborations and learning-focused projects.
 
-## ⚡ Fun Fact
-I love learning step-by-step, enjoy the moment when my code finally works after hours of debugging, and believe even small projects can teach big lessons ✨  
+💬 Ask me about CS student life, uni projects, or tech events Student tech events and organizing experiences.
 
+⚡ Fun Fact : I enjoy taking on new challenges, learning hands-on through projects, and discovering how structured data and logic can reveal meaningful insights ✨  
+
+---
 
 ## 📫 How to Reach Me
-📧 Email: **zzaheeradnz@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/noorzaheera)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zzaheeradnz@gmail.com)
+
+## 💻 Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 
-## 🛠️ Languages & Tools
-- 💻 C++  
-- ☕ Java  
-- 🌐 JavaScript  
-- 🐍 Python  
+## 🎨 Softwares
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
 
 ✨ Thanks for stopping by! Feel free to explore my repositories and connect with me 🌷
