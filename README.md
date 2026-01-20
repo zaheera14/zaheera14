@@ -1,4 +1,4 @@
-🌸 Hi there! I’m Zaheera 👩‍💻✨  
+## 🌸 Hi there! I’m Zaheera 👩‍💻✨  
 
 Welcome to my GitHub space!  
 I’m a **second-year Computer Science student at Universiti Teknologi PETRONAS (UTP)** who enjoys turning ideas into code, learning by building projects, and debugging until things finally work 😆💡  
