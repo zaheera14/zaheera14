@@ -1,9 +1,11 @@
 ## 🌸 Hi there! I’m Zaheera 👩‍💻✨  
 
 Welcome to my GitHub space!  
+
 I’m a **second-year Computer Science student at Universiti Teknologi PETRONAS (UTP)** who loves turning ideas into code and learning by building things (and breaking them… then fixing them 😆).
 
----
+
+
 
 🔭 I'm exploring Python, SQL, R & data analysis through academic projects.
 
@@ -15,7 +17,7 @@ I’m a **second-year Computer Science student at Universiti Teknologi PETRONAS 
 
 ⚡ Fun Fact : I enjoy taking on new challenges, learning hands-on through projects, and discovering how structured data and logic can reveal meaningful insights ✨  
 
----
+
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/noorzaheera)
